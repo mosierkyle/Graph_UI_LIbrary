@@ -30,8 +30,7 @@ The JSON Data Visualization Tool is an easy-to-use web application that allows u
 2. **Clone the Repository:**
 
    ```
-   git clone -b graph-ui-kyle https://github.com/sv2506/Graph_UI_Mar_2024.git
-   cd mosier-graph-ui
+   git clone https://github.com/mosierkyle/Graph_UI_Library.git
    ```
 
 3. **Install Dependencies:**
